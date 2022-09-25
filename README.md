@@ -7,7 +7,7 @@ Companies can provide a more personalised experience by recommending products ba
 
 ### Datasets:
 
-[RAVDESS](https://zenodo.org/record/1188976).
+[RAVDESS](https://zenodo.org/record/1188976):
 This dataset includes around 1400 audio file input from 24 different actors. 12 male and 12 female where these actors record short audios in 8 different emotions i.e 1 = neutral, 2 = calm, 3 = happy, 4 = sad, 5 = angry, 6 = fearful, 7 = disgust, 8 = surprised.
 Each audio file is named in such a way that the 7th character is consistent with the different emotions that they represent.
 
