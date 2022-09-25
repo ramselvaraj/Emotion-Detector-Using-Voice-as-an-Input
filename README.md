@@ -1,6 +1,6 @@
 # Emotion Detector Using Voice as in Input
 
-* The aim of the project is to analyze the user's voice and determine their mood which can then be used for various purposes.
+The aim of the project is to analyze the user's voice and determine their mood which can then be used for various purposes.
 
 Companies can provide a more personalised experience by recommending products based on the person's mood. One such example being in voice assistants. When the user asks it to play a song for example, it can play a song based on the user's mood.
 
