@@ -13,7 +13,7 @@ Each audio file is named in such a way that the 7th character is consistent with
 
 ## Audio files:
 Tested out the audio files by plotting out the waveform and a spectrogram to see the sample audio files.<br>
-**Waveform**
+**Waveform**<br>
 ![](images/wave.png?raw=true)
 <br>
 <br>
