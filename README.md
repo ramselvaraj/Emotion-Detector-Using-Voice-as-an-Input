@@ -29,5 +29,13 @@ These are a sample of the actual vs predicted values.
 ![](images/predict.png?raw=true)
 <br>
 
-## Testing out with live voices.
+## Testing out with live voices
 In order to test out our model on voices that were completely different than what we have in our training and test data, we recorded our own voices with dfferent emotions and predicted the outcomes.
+
+# Contributors
+
+* ### [Noel Jacob Abraham](https://github.com/NoelJacobAbraham)
+* ### [Prajay V K](https://github.com/PrajayVK)
+* ### [Rahul Samal](https://github.com/Omicron02)
+* ### [Ram Selvaraj](https://github.com/ramselvaraj)
+* ### [Shafiudeen Kameel](https://github.com/ShafiudeenKameel)
